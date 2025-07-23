@@ -1,0 +1,29 @@
+@import "tailwindcss";
+:root {
+  --primary-font: "Tangerine", cursive;
+  --primary-color: #60635c;
+  --primary-bg: #6b6b6b80;
+  --secondary-bg: #60635c;
+}
+
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  color: #777;
+}
+
+.primary-font {
+  font-family: var(--primary-font);
+}
+
+.primary-color {
+  color: var(--primary-color);
+}
+.primary-bg {
+  background-color: var(--primary-bg);
+}
+.secondary-bg {
+  background-color: var(--secondary-bg);
+}
+.swiper-button-lock {
+  display: block !important;
+}
