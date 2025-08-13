@@ -37,7 +37,7 @@ const Navbar = () => {
     <>
       <div className="shadow-xs lg:shadow-none fixed lg:static bg-white w-full z-888 flex justify-between lg:justify-center items-center lg:my-6 px-5 lg:px-0 py-4 lg:py-0">
         <h1 className="text-5xl font-bold primary-font primary-color text-center">
-          Jessica & Johns
+          Jessica & Johny
         </h1>
         <button
           className="lg:hidden bg-[var(--primary-color)] h-[35px] px-3 cursor-pointer"
